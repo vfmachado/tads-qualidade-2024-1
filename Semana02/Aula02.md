@@ -111,3 +111,20 @@ A qualidade de software evoluiu de uma preocupação secundária na era inicial 
 ## VIDEOS 
 
 https://www.youtube.com/watch?v=xjjX3R2WuoM&ab_channel=FabioAkita
+https://www.youtube.com/watch?v=ekBWizEpyvo
+
+
+## FILME
+
+Estrelas além do tempo
+
+
+## LINKS interessantes
+
+https://uds.com.br/blog/erros-no-projeto-de-software-que-devem-ser-evitados/
+
+* Nada menos que 66% dos projetos de software falham.
+* Mais de 31% dos projetos hoje em andamento serão cancelados antes de serem concluídos.
+* 52,7% dos projetos custarão 189% a mais que suas estimativas originais.
+* 88% dos projetos de software no mundo ultrapassam prazo.
+(Fonte: Standish Group)
